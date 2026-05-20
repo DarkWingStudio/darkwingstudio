@@ -1,9 +1,9 @@
 <!-- HEADER -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Rohit+Kumar;Frontend+Developer;React+%C2%B7+Supabase+%C2%B7+GraphQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Rohit+Kumar;Frontend+Developer;React+%C2%B7+JavaScript+%C2%B7+UI+Engineering)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=6B7280&center=true&vCenter=true&width=500&lines=Building+things+that+work+and+look+like+they+mean+it." alt="subtitle"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=6B7280&center=true&vCenter=true&width=500&lines=Building+interfaces+that+look+sharp+and+feel+right." alt="subtitle"/>
 
 </div>
 
@@ -13,10 +13,11 @@
 
 ```ts
 const rohit = {
-  alias    : "DarkWing Studio",
-  focus    : ["React", "Supabase", "GraphQL", "Full-Stack Web"],
-  currently: "Building OpenSourceHub — GitHub explorer with live API + caching",
-  looking  : "Frontend / UI Engineering roles",
+  alias  : "DarkWing Studio",
+  role   : "Frontend Developer",
+  focus  : ["React", "JavaScript", "UI Engineering", "Component Design"],
+  now    : "Building OpenSourceHub — GitHub explorer with GraphQL API",
+  open   : "Frontend / UI Engineering roles",
 };
 ```
 
@@ -26,13 +27,13 @@ const rohit = {
 
 ### ◈ Featured — OpenSourceHub
 
-> A full-stack GitHub explorer. Search users, browse repos, view stats — all driven by the GitHub GraphQL API with a Supabase backend for rate-limit caching (6hr TTL).
+> A React-based GitHub explorer. Search users, browse repositories, and view stats — all driven by the GitHub GraphQL API with smart request handling on the frontend.
 
-**Stack:** `React` `Vite` `Tailwind` `GitHub GraphQL API` `Supabase`
+**Stack:** `React` `Vite` `Tailwind CSS` `GitHub GraphQL API`
 
-**Why it's interesting:** GraphQL over REST for precise data fetching. Supabase as a backend cache so API tokens never hit the client. Auth layer removed intentionally — zero attack surface.
+**Why it's interesting:** Chose GraphQL over REST for precise, field-level data fetching — no over-fetching. Handled API rate limits on the client side with caching logic. Auth layer removed intentionally — zero attack surface for the end user.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-9333EA?style=for-the-badge&logo=vercel&logoColor=white)](https://opensourcehub.lovable.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-9333EA?style=for-the-badge&logo=vercel&logoColor=white)](https://opensourcehub.vercel.app)
 [![Source Code](https://img.shields.io/badge/Source_Code-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarkWingStudio/opensourcehub)
 
 ---
@@ -41,9 +42,9 @@ const rohit = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=DarkWingStudio&show_icons=true&theme=transparent&title_color=9333EA&icon_color=9333EA&text_color=e5e7eb&border_color=374151&hide_border=false&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=DarkWingStudio&show_icons=true&theme=transparent&title_color=9333EA&icon_color=9333EA&text_color=e5e7eb&border_color=374151&rank_icon=github" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkWingStudio&layout=compact&theme=transparent&title_color=9333EA&text_color=e5e7eb&border_color=374151&hide_border=false&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkWingStudio&layout=compact&theme=transparent&title_color=9333EA&text_color=e5e7eb&border_color=374151&langs_count=6" />
 
 </div>
 
@@ -63,7 +64,7 @@ const rohit = {
 
 ### ◈ Stack
 
-**Frontend**
+**Core**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=F7DF1E)
@@ -72,13 +73,12 @@ const rohit = {
 ![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=flat-square&logo=css3&logoColor=1572B6)
 ![Tailwind](https://img.shields.io/badge/Tailwind-1a1a1a?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
 
-**Backend & Data**
+**APIs & Data**
 
-![Supabase](https://img.shields.io/badge/Supabase-1a1a1a?style=flat-square&logo=supabase&logoColor=3ECF8E)
 ![GraphQL](https://img.shields.io/badge/GraphQL-1a1a1a?style=flat-square&logo=graphql&logoColor=E10098)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=339933)
+![REST](https://img.shields.io/badge/REST_APIs-1a1a1a?style=flat-square&logo=json&logoColor=white)
 
-**Tools**
+**Tooling**
 
 ![Vite](https://img.shields.io/badge/Vite-1a1a1a?style=flat-square&logo=vite&logoColor=646CFF)
 ![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=F05032)
