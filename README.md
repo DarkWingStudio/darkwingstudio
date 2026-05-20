@@ -33,7 +33,7 @@ const rohit = {
 
 **Why it's interesting:** Chose GraphQL over REST for precise, field-level data fetching — no over-fetching. Handled API rate limits on the client side with caching logic. Auth layer removed intentionally — zero attack surface for the end user.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-9333EA?style=for-the-badge&logo=vercel&logoColor=white)](https://opensourcehub.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-9333EA?style=for-the-badge&logo=vercel&logoColor=white)](https://opensourcehub.lovable.app)
 [![Source Code](https://img.shields.io/badge/Source_Code-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarkWingStudio/opensourcehub)
 
 ---
