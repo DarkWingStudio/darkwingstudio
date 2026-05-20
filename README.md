@@ -32,7 +32,7 @@ const rohit = {
 
 **Why it's interesting:** GraphQL over REST for precise data fetching. Supabase as a backend cache so API tokens never hit the client. Auth layer removed intentionally — zero attack surface.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-9333EA?style=for-the-badge&logo=vercel&logoColor=white)](https://opensourcehub.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-9333EA?style=for-the-badge&logo=vercel&logoColor=white)](https://opensourcehub.lovable.app)
 [![Source Code](https://img.shields.io/badge/Source_Code-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarkWingStudio/opensourcehub)
 
 ---
