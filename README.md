@@ -33,7 +33,7 @@ const rohit = {
 
 **Why it's interesting:** Chose GraphQL over REST for precise, field-level data fetching — no over-fetching. Handled API rate limits on the client side with caching logic. Auth layer removed intentionally — zero attack surface for the end user.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-9333EA?style=for-the-badge&logo=vercel&logoColor=white)](https://opensourcehub.lovable.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-9333EA?style=for-the-badge&logo=lovable&logoColor=white)](https://opensourcehub.lovable.app)
 [![Source Code](https://img.shields.io/badge/Source_Code-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarkWingStudio/opensourcehub)
 
 ---
@@ -42,9 +42,9 @@ const rohit = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=DarkWingStudio&show_icons=true&theme=transparent&title_color=9333EA&icon_color=9333EA&text_color=e5e7eb&border_color=374151&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=darkwingstudio&show_icons=true&theme=transparent&title_color=9333EA&icon_color=9333EA&text_color=e5e7eb&border_color=374151&rank_icon=github" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkWingStudio&layout=compact&theme=transparent&title_color=9333EA&text_color=e5e7eb&border_color=374151&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkwingstudio&layout=compact&theme=transparent&title_color=9333EA&text_color=e5e7eb&border_color=374151&langs_count=6" />
 
 </div>
 
@@ -54,7 +54,7 @@ const rohit = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DarkWingStudio&theme=transparent&ring=9333EA&fire=9333EA&currStreakLabel=9333EA&sideLabels=6B7280&dates=6B7280&border=374151" />
+<img src="https://streak-stats.demolab.com?user=darkwingstudio&theme=transparent&ring=9333EA&fire=9333EA&currStreakLabel=9333EA&sideLabels=6B7280&dates=6B7280&border=374151" />
 
 </div>
 
